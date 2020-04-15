@@ -1,5 +1,5 @@
 # MB_DDPG
-This repo concludes data DB_DDPG experiment
+This repo concludes data MB_DDPG experiment
 
 mature_edges.csv and mature_users.csv is the initial geographical information of edge servers and users.
 
